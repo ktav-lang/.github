@@ -27,8 +27,15 @@
 
 В область входят спецификация и её реализации:
 
+- [`ktav-lang/spec`](https://github.com/ktav-lang/spec)
 - [`ktav-lang/rust`](https://github.com/ktav-lang/rust)
 - [`ktav-lang/python`](https://github.com/ktav-lang/python)
+- [`ktav-lang/js`](https://github.com/ktav-lang/js)
+- [`ktav-lang/golang`](https://github.com/ktav-lang/golang)
+
+У каждого из этих репо также есть свой `SECURITY.md` с областью,
+сужённой под конкретный биндинг — предпочтительнее локальная политика
+репо, если проблема явно относится к нему.
 
 Уязвимости прикладного уровня в программном обеспечении, которое
 *использует* Ktav, — вне области этого репозитория; сообщайте о

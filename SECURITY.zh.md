@@ -25,8 +25,14 @@
 
 范围涵盖规范及其实现:
 
+- [`ktav-lang/spec`](https://github.com/ktav-lang/spec)
 - [`ktav-lang/rust`](https://github.com/ktav-lang/rust)
 - [`ktav-lang/python`](https://github.com/ktav-lang/python)
+- [`ktav-lang/js`](https://github.com/ktav-lang/js)
+- [`ktav-lang/golang`](https://github.com/ktav-lang/golang)
+
+上述每个仓库也各自附带了 `SECURITY.md`，范围收窄到对应绑定 ——
+若问题显然属于某个仓库，优先使用该仓库的本地策略。
 
 *使用* Ktav 的软件中出现的应用层漏洞不在本仓库的范围内 —— 请
 向相应项目上报。

@@ -25,8 +25,15 @@ Applies to every repository under the
 
 The spec and its implementations are in scope:
 
+- [`ktav-lang/spec`](https://github.com/ktav-lang/spec)
 - [`ktav-lang/rust`](https://github.com/ktav-lang/rust)
 - [`ktav-lang/python`](https://github.com/ktav-lang/python)
+- [`ktav-lang/js`](https://github.com/ktav-lang/js)
+- [`ktav-lang/golang`](https://github.com/ktav-lang/golang)
+
+Each of those repos also ships its own `SECURITY.md` with scope
+narrowed to that binding — prefer the repo-local policy when the
+issue is clearly scoped there.
 
 Application-layer vulnerabilities in software that *uses* Ktav are
 out of scope for this repo — report them to the relevant project.
