@@ -35,11 +35,16 @@ motd: (
 
 ## Репозитории
 
-| Репозиторий                                                    | Описание                                                                       |
-|----------------------------------------------------------------|--------------------------------------------------------------------------------|
-| [`spec`](https://github.com/ktav-lang/spec)                    | Каноническая спецификация и не зависящий от языка набор conformance-тестов.    |
-| [`rust`](https://github.com/ktav-lang/rust)                    | Реализация на Rust.                                                            |
-| [`python`](https://github.com/ktav-lang/python)                | Реализация на Python.                                                          |
+| Репозиторий                                         | Реализация              | Установка                                            |
+|-----------------------------------------------------|-------------------------|------------------------------------------------------|
+| [`spec`](https://github.com/ktav-lang/spec)         | Спецификация + conformance-тесты | —                                            |
+| [`rust`](https://github.com/ktav-lang/rust)         | Эталонный Rust crate    | `cargo add ktav`                                     |
+| [`csharp`](https://github.com/ktav-lang/csharp)     | C# / .NET               | `dotnet add package Ktav`                            |
+| [`golang`](https://github.com/ktav-lang/golang)     | Go                      | `go get github.com/ktav-lang/golang`                 |
+| [`java`](https://github.com/ktav-lang/java)         | Java / JVM              | `io.github.ktav-lang:ktav` на Maven Central          |
+| [`js`](https://github.com/ktav-lang/js)             | JS / TS (Node, Deno, Bun, браузер) | `npm install @ktav-lang/ktav`             |
+| [`php`](https://github.com/ktav-lang/php)           | PHP                     | `composer require ktav-lang/ktav`                    |
+| [`python`](https://github.com/ktav-lang/python)     | Python                  | `pip install ktav`                                   |
 
 ## Спецификация
 

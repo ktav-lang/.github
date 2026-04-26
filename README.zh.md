@@ -25,6 +25,11 @@ upstreams: [
 完整介绍见[组织主页](profile/README.zh.md)。正式规范位于
 [`ktav-lang/spec`](https://github.com/ktav-lang/spec)。现有实现:
 [`rust`](https://github.com/ktav-lang/rust)、
+[`csharp`](https://github.com/ktav-lang/csharp)、
+[`golang`](https://github.com/ktav-lang/golang)、
+[`java`](https://github.com/ktav-lang/java)、
+[`js`](https://github.com/ktav-lang/js)、
+[`php`](https://github.com/ktav-lang/php)、
 [`python`](https://github.com/ktav-lang/python)。
 
 ## 关于本仓库

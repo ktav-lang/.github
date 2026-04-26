@@ -27,6 +27,11 @@ A full introduction lives on the [organisation landing page](profile/README.md).
 The formal specification is in
 [`ktav-lang/spec`](https://github.com/ktav-lang/spec). Current
 implementations: [`rust`](https://github.com/ktav-lang/rust),
+[`csharp`](https://github.com/ktav-lang/csharp),
+[`golang`](https://github.com/ktav-lang/golang),
+[`java`](https://github.com/ktav-lang/java),
+[`js`](https://github.com/ktav-lang/js),
+[`php`](https://github.com/ktav-lang/php),
 [`python`](https://github.com/ktav-lang/python).
 
 ## About this repository

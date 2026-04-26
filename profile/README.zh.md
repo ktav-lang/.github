@@ -34,11 +34,16 @@ motd: (
 
 ## 仓库
 
-| 仓库                                                            | 说明                                                                            |
-|----------------------------------------------------------------|--------------------------------------------------------------------------------|
-| [`spec`](https://github.com/ktav-lang/spec)                    | 规范本身以及与实现语言无关的一致性测试套件。                                     |
-| [`rust`](https://github.com/ktav-lang/rust)                    | Rust 实现。                                                                     |
-| [`python`](https://github.com/ktav-lang/python)                | Python 实现。                                                                   |
+| 仓库                                                | 实现                            | 安装                                                  |
+|-----------------------------------------------------|---------------------------------|-------------------------------------------------------|
+| [`spec`](https://github.com/ktav-lang/spec)         | 规范 + 一致性测试套件           | —                                                     |
+| [`rust`](https://github.com/ktav-lang/rust)         | 参考 Rust crate                 | `cargo add ktav`                                      |
+| [`csharp`](https://github.com/ktav-lang/csharp)     | C# / .NET                       | `dotnet add package Ktav`                             |
+| [`golang`](https://github.com/ktav-lang/golang)     | Go                              | `go get github.com/ktav-lang/golang`                  |
+| [`java`](https://github.com/ktav-lang/java)         | Java / JVM                      | `io.github.ktav-lang:ktav`(Maven Central)             |
+| [`js`](https://github.com/ktav-lang/js)             | JS / TS(Node、Deno、Bun、浏览器)| `npm install @ktav-lang/ktav`                         |
+| [`php`](https://github.com/ktav-lang/php)           | PHP                             | `composer require ktav-lang/ktav`                     |
+| [`python`](https://github.com/ktav-lang/python)     | Python                          | `pip install ktav`                                    |
 
 ## 规范
 

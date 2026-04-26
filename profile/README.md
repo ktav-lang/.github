@@ -34,11 +34,16 @@ motd: (
 
 ## Repositories
 
-| Repo                                                           | What                                                                          |
-|----------------------------------------------------------------|-------------------------------------------------------------------------------|
-| [`spec`](https://github.com/ktav-lang/spec)                    | Canonical specification and language-agnostic conformance test suite.         |
-| [`rust`](https://github.com/ktav-lang/rust)                    | Rust implementation.                                                          |
-| [`python`](https://github.com/ktav-lang/python)                | Python implementation.                                                        |
+| Repo                                                | Implementation        | Install                                              |
+|-----------------------------------------------------|-----------------------|------------------------------------------------------|
+| [`spec`](https://github.com/ktav-lang/spec)         | Specification + conformance suite | —                                        |
+| [`rust`](https://github.com/ktav-lang/rust)         | Reference Rust crate  | `cargo add ktav`                                     |
+| [`csharp`](https://github.com/ktav-lang/csharp)     | C# / .NET             | `dotnet add package Ktav`                            |
+| [`golang`](https://github.com/ktav-lang/golang)     | Go                    | `go get github.com/ktav-lang/golang`                 |
+| [`java`](https://github.com/ktav-lang/java)         | Java / JVM            | `io.github.ktav-lang:ktav` on Maven Central          |
+| [`js`](https://github.com/ktav-lang/js)             | JS / TS (Node, Deno, Bun, browser) | `npm install @ktav-lang/ktav`           |
+| [`php`](https://github.com/ktav-lang/php)           | PHP                   | `composer require ktav-lang/ktav`                    |
+| [`python`](https://github.com/ktav-lang/python)     | Python                | `pip install ktav`                                   |
 
 ## Specification
 
