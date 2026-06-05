@@ -48,7 +48,7 @@ motd: (
 
 ## Спецификация
 
-Текущая стабильная версия: **[Ktav 0.1.0](https://github.com/ktav-lang/spec/blob/main/versions/0.1/spec.md)**.
+Текущая стабильная версия: **[Ktav 0.6.0](https://github.com/ktav-lang/spec/blob/main/versions/0.6/spec.md)**.
 
 Формат ест собственную еду: [`versions.ktav`](https://github.com/ktav-lang/spec/blob/main/versions.ktav)
 — машиночитаемый индекс всех версий, записанный на Ktav.

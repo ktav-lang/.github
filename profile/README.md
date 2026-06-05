@@ -47,7 +47,7 @@ motd: (
 
 ## Specification
 
-Current stable: **[Ktav 0.1.0](https://github.com/ktav-lang/spec/blob/main/versions/0.1/spec.md)**.
+Current stable: **[Ktav 0.6.0](https://github.com/ktav-lang/spec/blob/main/versions/0.6/spec.md)**.
 
 The format dog-foods itself: [`versions.ktav`](https://github.com/ktav-lang/spec/blob/main/versions.ktav)
 is the machine-readable index of all versions, written in Ktav.

@@ -47,7 +47,7 @@ motd: (
 
 ## 规范
 
-当前稳定版本:**[Ktav 0.1.0](https://github.com/ktav-lang/spec/blob/main/versions/0.1/spec.md)**。
+当前稳定版本:**[Ktav 0.6.0](https://github.com/ktav-lang/spec/blob/main/versions/0.6/spec.md)**。
 
 此格式自己吃自己的狗粮:[`versions.ktav`](https://github.com/ktav-lang/spec/blob/main/versions.ktav)
 是所有版本的机读索引,正是用 Ktav 写成的。

@@ -17,7 +17,7 @@ log_level: info
 upstreams: [
     {
         host: a.example
-        port:i 1080
+        port: 1080
     }
 ]
 ```
