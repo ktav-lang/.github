@@ -1,5 +1,6 @@
 # Local working directories
 /docs_local
+node_modules/
 
 # Editors / IDEs
 .idea/
